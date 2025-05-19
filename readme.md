@@ -2,6 +2,7 @@
 Description:
 The WooCommerce Pickup & Reminder plugin enhances your WooCommerce store by allowing customers to select a pickup location and date at checkout. It streamlines the pickup process by sending confirmation emails with store details, including a map location, and a reminder email one day before the scheduled pickup. Admins can manage store locations easily from the backend.
 
+
 Key Features:
 ✅ Store Pickup Option at Checkout – Customers can choose a store and pickup date while placing an order.
 ✅ Store Management – Admins can add, edit, and manage pickup locations.
